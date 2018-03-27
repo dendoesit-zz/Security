@@ -1,0 +1,13 @@
+Cyber security, computer security or IT security is the protection of computer systems from the theft and damage to their hardware, software or information, as well as from disruption or misdirection of the services they provide.
+
+Cyber security includes controlling physical access to the hardware, as well as protecting against harm that may come via network access, data and code injection.[1] Also, due to malpractice by operators, whether intentional or accidental, IT security is susceptible to being tricked into deviating from secure procedures through various methods.[2]
+
+The field is of growing importance due to the increasing reliance on computer systems and the Internet,[3] wireless networks such as Bluetooth and Wi-Fi, the growth of "smart" devices, including smartphones, televisions and tiny devices as part of the Internet of Things.
+
+Vulnerabilities and attacks[edit]
+Main article: Vulnerability (computing)
+A vulnerability is a weakness in design, implementation, operation or internal control. Most of the vulnerabilities that have been discovered are documented in the Common Vulnerabilities and Exposures (CVE) database.
+
+An exploitable vulnerability is one for which at least one working attack or "exploit" exists.[4] Vulnerabilities are often hunted or exploited with the aid of automated tools or manually using customized scripts.
+
+To secure a computer system, it is important to understand the attacks that can be made against it, and these threats can typically be classified into one of these categories below:
